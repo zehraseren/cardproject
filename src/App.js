@@ -32,7 +32,7 @@ function App() {
           <Course
               image={CCsharp}
               title="CCsharp"
-              description="C, işletim sistemlerinin ve gömülü sistem uygulamalarının uygulanmasında sistem programlaması için yaygın olarak kullanılmaktadır. Bu birkaç nedenden dolayıdır: Derlemeden sonra oluşturulan kod, pek çok sistem özelliği gerektirmez ve bazı önyükleme kodlarından basit bir şekilde çağrılabilir - yürütmesi kolaydır. C# ('See Sharp' olarak okunur), modern, nesne odaklı ve türe uygun bir programlama dilidir. C#, geliştiricilerin . NET'te çalıştıran birçok tür güvenli ve sağlam uygulama oluşturmalarına olanak sağlar. C# dilinin kökleri C dil ailesindedir ve C, C++, Java ve JavaScript programcılarına hemen tanıdık gelecektir."
+              description="C, işletim sistemlerinin ve gömülü sistem uygulamalarının uygulanmasında sistem programlaması için yaygın olarak kullanılmaktadır. C# modern, nesne odaklı ve türe uygun bir programlama dilidir.."
             />
           </Grid>
           <Grid item xs={12} md={6} lg={3}>
